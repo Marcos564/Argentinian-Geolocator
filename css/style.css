@@ -1,0 +1,47 @@
+body{
+    background-color: #a2d2ff;
+    font-family: sans-serif;
+    text-align: center;
+
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 9vh;
+    background-color: blanchedalmond;
+    border-radius: 3%;
+    padding: 4vh;
+}
+
+select{
+    padding: 5px 10px;
+}
+
+
+#mi_mapa{
+    margin-top: 4vh;
+    background-color: bisque;
+    height: 35vh;
+    width: 35vh;
+    border-radius: 6px;
+}
+
+#bandera{
+    height: 13vh;
+    width: 19vh;
+}
+
+footer{
+    margin-top: 20px;
+    width: 100vh;
+    
+    font-weight: bold;
+}
