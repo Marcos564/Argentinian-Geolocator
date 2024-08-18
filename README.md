@@ -3,6 +3,6 @@ A simple geolocator of Argentina's locations using "Georef" API from "https://da
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository:<br>
    `git clone hasdj`
 3. Open the index.html file in your browser.
