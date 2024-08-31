@@ -5,4 +5,4 @@ A simple geolocator of Argentina's locations using "Georef" API from "https://da
 
 1. Clone the repository:<br>
    `git clone https://github.com/Marcos564/Argentinian-Geolocator`
-3. Open the index.html file in your browser.
+3. Open the index.html file in your browser. (It doesn't necessarily have to run on a localserver).
