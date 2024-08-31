@@ -1,5 +1,5 @@
 A simple geolocator of Argentina's locations using "Georef" API from "https://datos.gob.ar" <br>
-![Diagram-georef](https://github.com/user-attachments/assets/815467ef-a770-445c-a1b1-fad07b6d8299)
+![Diagrama-map](https://github.com/user-attachments/assets/52e140f9-50d0-4a50-88b1-53b176226774)
 
 ## Setup
 
